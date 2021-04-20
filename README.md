@@ -44,6 +44,7 @@ A small but formidable list of marketing tools for software developers
 - [Mailerlite](https://www.mailerlite.com/)
 - [Buttondown](https://buttondown.email/)
 - [Drip](https://www.drip.com/home)
+- [Revue by Twitter](https://www.getrevue.co/)
 
 ## 👯Social Media Scheduling Platforms
 

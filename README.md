@@ -28,6 +28,16 @@ A small but formidable list of marketing tools for software developers
 - [Simple Analytics](https://simpleanalytics.com/): Privacy-focused analytics solution.
 - [Fathom Analytics](https://usefathom.com/): ightweight privacy-focused analytics solution; free trial available.
 
+## 🛍eCommerce Platforms
+- [Shopify](https://www.shopify.com/) All-in-one online shop
+- [Big Cartel](https://www.bigcartel.com/): eCommerce platform for creatives
+- [WooCommerce](https://woocommerce.com/): Set up an ecommerce store for WordPress sites
+- [Wix Stores](https://www.wix.com/app-market/wix-stores): Set up an ecommerce store for Wix sites
+- [E-junkie](https://www.e-junkie.com/): For selling digital products
+- [Payhip](https://payhip.com/): For selling digital products
+- [Podia](https://www.podia.com/): For selling digital products, courses, and more
+- [Teachable](https://teachable.com/): Selling online courses and coaching programs
+
 ## 📬 Email Marketing Platforms
 
 - [ConvertKit](https://convertkit.com/)
@@ -50,4 +60,6 @@ A small but formidable list of marketing tools for software developers
 - [Zapier](https://zapier.com/)
 - [Airtable Automations](https://support.airtable.com/hc/en-us/articles/360050974153-Automations-Overview)
 
+---
+List compiled by [Stephanie Morillo](https://www.stephaniemorillo.co/links)
 

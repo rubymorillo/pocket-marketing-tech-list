@@ -1,7 +1,7 @@
 # The Pocket Marketing Tech List 🗂
 A small but formidable list of marketing tools for software developers
 
---
+---
 
 ## 🔦Search Engine Optimization
 

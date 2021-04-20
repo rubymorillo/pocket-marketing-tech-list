@@ -64,7 +64,7 @@ A small but formidable list of marketing tools for software developers
 - [Airtable Automations](https://support.airtable.com/hc/en-us/articles/360050974153-Automations-Overview)
 
 ## 📖Developer Blogging Platforms
-- ["How Blog Post Syndication Works"](https://www.stephaniemorillo.co/post/how-blog-post-syndication-works): A post that explains blog syndication, aka "cross-posting"
+- ["How Blog Post Syndication Works"](https://www.stephaniemorillo.co/post/how-blog-post-syndication-works): A post that explains blog syndication, aka "cross-posting".
 - ["What's the best blogging platform for developers?"](https://www.stephaniemorillo.co/post/what-s-the-best-blogging-platform-for-developers): A blog post to help you figure out what's important in selecting a blog platform.
 - [DEV Community](https://dev.to/): An open source developer blogging and community platform. Allows you to categorize blog posts into tags, enables comments, and allows for blog syndication. 
 - [Hashnode](https://hashnode.com/): Developer blogging and community platfor. Allows you to categorize blog posts into tags, enables comments, and allows for blog syndication. Also allows developers to map their own domain to their blog.

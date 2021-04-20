@@ -1,6 +1,5 @@
 # The Pocket Marketing Tech List 🗂
-A small but formidable list of marketing tools for software developers
-
+A small but formidable list of marketing tools for software developers. 
 ---
 
 ## 🔦Search Engine Optimization (SEO) Tools
@@ -70,5 +69,6 @@ A small but formidable list of marketing tools for software developers
 - [Hashnode](https://hashnode.com/): Developer blogging and community platfor. Allows you to categorize blog posts into tags, enables comments, and allows for blog syndication. Also allows developers to map their own domain to their blog.
 
 ---
-List compiled by [Stephanie Morillo](https://www.stephaniemorillo.co/links)
+List compiled by [Stephanie Morillo](https://www.stephaniemorillo.co/links). Like this list? [Consider becoming a sponsor.](https://github.com/sponsors/rubymorillo/)🌸
+
 

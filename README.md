@@ -9,7 +9,7 @@ A small but formidable list of marketing tools for software developers
 - ["Introduction to SEO for Developers"](https://www.stephaniemorillo.co/post/introduction-to-seo-for-developers): A comprehensive overview of SEO.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/): Perfect for running SEO audits, finding status errors, missing alt text, and more. Free for crawling up to 500 pages.
 - [Technical SEO Markeup Generator](https://technicalseo.com/tools/schema-markup-generator/): Perfect for adding structured data from Schema.org to your site.
-- [WebPageTest](https://www.webpagetest.org/): A free site performance tool
+- [WebPageTest](https://www.webpagetest.org/): A free site performance measurement tool
 - [Google Search Console](https://search.google.com/search-console/about): Google's free tool for getting all the pages on your site indexed in Google search. Will also point out possible status errors, high performing search terms, and any performance issues.
 - [Bing Webmaster Tools](https://www.bing.com/webmasters/about): Bing's tool for getting your site indexed in Bing search.
 

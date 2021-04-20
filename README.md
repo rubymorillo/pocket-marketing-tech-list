@@ -3,9 +3,10 @@ A small but formidable list of marketing tools for software developers
 
 ---
 
-## 🔦Search Engine Optimization
+## 🔦Search Engine Optimization (SEO) Tools
 
 ### 🙌🏽Free Tools
+- ["Introduction to SEO for Developers"](https://www.stephaniemorillo.co/post/introduction-to-seo-for-developers): A comprehensive overview of SEO.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/): Perfect for running SEO audits, finding status errors, missing alt text, and more. Free for crawling up to 500 pages.
 - [Technical SEO Markeup Generator](https://technicalseo.com/tools/schema-markup-generator/): Perfect for adding structured data from Schema.org to your site.
 - [WebPageTest](https://www.webpagetest.org/): A free site performance tool
@@ -17,9 +18,10 @@ A small but formidable list of marketing tools for software developers
 - [AnswerThePublic](https://answerthepublic.com/): Tool for finding search terms and questions people ask around a keyword. It's free to search once per day; more than that you'll need to upgrade.
 - [Ubersuggest](https://neilpatel.com/ubersuggest/): Great for finding content ideas around keywords, among other SEO benefits.
 
-## 📈Site Analytics Tools
+## 📈Web Analytics Tools
 
 ### 🙌🏽Free Tools
+- ["An Introduction to Web Analytics"](https://www.stephaniemorillo.co/post/an-introduction-to-web-analytics): A comprehensive overview of web analytics.
 - [Google Analytics](https://analytics.google.com/): The industry standard.
 
 ### 💵Paid Tools

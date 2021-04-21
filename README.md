@@ -30,14 +30,14 @@ A small but formidable list of marketing tools for software developers.
 - [Fathom Analytics](https://usefathom.com/): ightweight privacy-focused analytics solution; free trial available.
 
 ## 🛍eCommerce Platforms
-- [Shopify](https://www.shopify.com/) All-in-one online shop
-- [Big Cartel](https://www.bigcartel.com/): eCommerce platform for creatives
-- [WooCommerce](https://woocommerce.com/): Set up an ecommerce store for WordPress sites
-- [Wix Stores](https://www.wix.com/app-market/wix-stores): Set up an ecommerce store for Wix sites
-- [E-junkie](https://www.e-junkie.com/): For selling digital products
-- [Payhip](https://payhip.com/): For selling digital products
-- [Podia](https://www.podia.com/): For selling digital products, courses, and more
-- [Teachable](https://teachable.com/): Selling online courses and coaching programs
+- [Shopify](https://www.shopify.com/) All-in-one online shop.
+- [Big Cartel](https://www.bigcartel.com/): eCommerce platform for creatives.
+- [WooCommerce](https://woocommerce.com/): Set up an ecommerce store for WordPress sites.
+- [Wix Stores](https://www.wix.com/app-market/wix-stores): Set up an ecommerce store for Wix sites.
+- [E-junkie](https://www.e-junkie.com/): For selling digital products.
+- [Payhip](https://payhip.com/): For selling digital products.
+- [Podia](https://www.podia.com/): For selling digital products, courses, and more.
+- [Teachable](https://teachable.com/): Selling online courses and coaching programs.
 
 ## 📬 Email Marketing Platforms
 
@@ -54,8 +54,8 @@ A small but formidable list of marketing tools for software developers.
 - [Tweetdeck](https://tweetdeck.twitter.com/)
 
 ### 💵Paid Tools
-- [MeetEdgar](https://meetedgar.com/pricing/): Free trial available
-- [Zlappo](https://zlappo.com/): Free trial available
+- [MeetEdgar](https://meetedgar.com/pricing/): Free trial available.
+- [Zlappo](https://zlappo.com/): Free trial available.
 
 ## 🤖Automation Tools
 - [IFTTT](https://ifttt.com/)

@@ -27,7 +27,7 @@ A small but formidable list of marketing tools for software developers.
 - [Matomo Analytics](https://matomo.org/): Complete Google Analytics replacement that's privacy focused; comes with free trial.
 - [Plausible Analytics](https://plausible.io/): Lightweight privacy-focused analytics solution; free trial available.
 - [Simple Analytics](https://simpleanalytics.com/): Privacy-focused analytics solution.
-- [Fathom Analytics](https://usefathom.com/): ightweight privacy-focused analytics solution; free trial available.
+- [Fathom Analytics](https://usefathom.com/): Lightweight privacy-focused analytics solution; free trial available.
 
 ## 🛍eCommerce Platforms
 - [Shopify](https://www.shopify.com/) All-in-one online shop.

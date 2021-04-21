@@ -68,6 +68,13 @@ A small but formidable list of marketing tools for software developers.
 - [DEV Community](https://dev.to/): An open source developer blogging and community platform. Allows you to categorize blog posts into tags, enables comments, and allows for blog syndication. 
 - [Hashnode](https://hashnode.com/): Developer blogging and community platfor. Allows you to categorize blog posts into tags, enables comments, and allows for blog syndication. Also allows developers to map their own domain to their blog.
 
+## 📒Organizational Apps
+- [Airtable](https://airtable.com/invite/r/mwQ4099x): A powerful no-code relational database. Has a ton of templates for everything from task management to forms to content calendars to Kanban boards. (_Note: Affiliate link_)
+- [Notion](https://www.notion.so/): All-in-one solution for most workflow-related things, like building Wikis, taking notes, tracking tasks and projects, and more.
+- [Obsidian](https://obsidian.md/): App for everything from taking notes to building Wikis. Supports Markdown.
+- [Roam Research](https://roamresearch.com/): App for organizing and connecting different notes and other pieces of information.
+- [Draft](https://draftin.com/): A version control collaboration tool for writers. Supports Markdown.
+
 ---
 List compiled by [Stephanie Morillo](https://www.stephaniemorillo.co/links). Like this list? [Consider becoming a sponsor.](https://github.com/sponsors/rubymorillo/)🌸
 

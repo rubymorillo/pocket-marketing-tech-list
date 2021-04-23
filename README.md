@@ -57,6 +57,9 @@ A small but formidable list of marketing tools for software developers.
 - [MeetEdgar](https://meetedgar.com/pricing/): Free trial available.
 - [Zlappo](https://zlappo.com/): Free trial available.
 
+## 🖼Graphic Design Tools
+- [Canva](https://www.canva.com): Can be used to design flyers, presentations, book covers, and more. Free tier and paid tiers available.
+
 ## 🤖Automation Tools
 - [IFTTT](https://ifttt.com/)
 - [Zapier](https://zapier.com/)

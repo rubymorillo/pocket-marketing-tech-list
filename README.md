@@ -57,9 +57,6 @@ A small but formidable list of marketing tools for software developers.
 - [MeetEdgar](https://meetedgar.com/pricing/): Free trial available.
 - [Zlappo](https://zlappo.com/): Free trial available.
 
-## 🖼Graphic Design Tools
-- [Canva](https://www.canva.com): Can be used to design flyers, presentations, book covers, and more. Free tier and paid tiers available.
-
 ## 🤖Automation Tools
 - [IFTTT](https://ifttt.com/)
 - [Zapier](https://zapier.com/)
@@ -70,6 +67,9 @@ A small but formidable list of marketing tools for software developers.
 - ["What's the best blogging platform for developers?"](https://www.stephaniemorillo.co/post/what-s-the-best-blogging-platform-for-developers): A blog post to help you figure out what's important in selecting a blog platform.
 - [DEV Community](https://dev.to/): An open source developer blogging and community platform. Allows you to categorize blog posts into tags, enables comments, and allows for blog syndication. 
 - [Hashnode](https://hashnode.com/): Developer blogging and community platfor. Allows you to categorize blog posts into tags, enables comments, and allows for blog syndication. Also lets developers map their own domain to their blog.
+
+## 🖼Graphic Design Tools
+- [Canva](https://www.canva.com): Can be used to design flyers, presentations, book covers, and more. Free tier and paid tiers available.
 
 ## 📒Organizational Apps
 - [Airtable](https://airtable.com/invite/r/mwQ4099x): A powerful no-code relational database. Has a ton of templates for everything from task management to forms to content calendars to Kanban boards. (_Note: Affiliate link_)

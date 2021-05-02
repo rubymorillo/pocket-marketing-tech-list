@@ -68,7 +68,7 @@ A small but formidable list of marketing tools for software developers.
 - [DEV Community](https://dev.to/): An open source developer blogging and community platform. Allows you to categorize blog posts into tags, enables comments, and allows for blog syndication. 
 - [Hashnode](https://hashnode.com/): Developer blogging and community platfor. Allows you to categorize blog posts into tags, enables comments, and allows for blog syndication. Also lets developers map their own domain to their blog.
 
-## 🖼Graphic Design Tools & Stock Image Sites
+## 🖼Graphic Design Tools & Free Stock Image Aggregators
 - [Canva](https://www.canva.com): Can be used to design flyers, presentations, book covers, and more. Free tier and paid tiers available.
 - [Flickr](https://www.flickr.com/search/?text=&license=2%2C3%2C4%2C5%2C6%2C9): Search for images available under Creative Commons licenses.
 - [Pexels](https://www.pexels.com/): Free stock images

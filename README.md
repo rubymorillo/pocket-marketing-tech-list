@@ -71,8 +71,8 @@ A small but formidable list of marketing tools for software developers.
 ## 🖼Graphic Design Tools & Free Stock Image Aggregators
 - [Canva](https://www.canva.com): Can be used to design flyers, presentations, book covers, and more. Free tier and paid tiers available.
 - [Flickr](https://www.flickr.com/search/?text=&license=2%2C3%2C4%2C5%2C6%2C9): Search for images available under Creative Commons licenses.
-- [Pexels](https://www.pexels.com/): Free stock images
-- [Unsplash](https://unsplash.com/): Free stock images
+- [Pexels](https://www.pexels.com/): Free stock images.
+- [Unsplash](https://unsplash.com/): Free stock images.
 
 ## 📒Organizational Apps
 - [Airtable](https://airtable.com/invite/r/mwQ4099x): A powerful no-code relational database. Has a ton of templates for everything from task management to forms to content calendars to Kanban boards. (_Note: Affiliate link_)

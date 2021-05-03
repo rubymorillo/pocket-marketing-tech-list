@@ -75,6 +75,13 @@ A small but formidable list of marketing tools for software developers.
 - [Pexels](https://www.pexels.com/): Free stock images.
 - [Unsplash](https://unsplash.com/): Free stock images.
 
+## 🧑🏻‍💻Freelancer Marketplaces
+- [Fiverr](http://www.fiverr.com/s2/a6a80da60a): Find everyone from book designers to editors to graphic designers to ghostwriters on Fiverr. I've been working with Fiverr freelancers for sometime with great success. (_Note: Affiliate link_)
+- [Upwork](https://www.upwork.com/)
+- [Wordy.com](https://www.wordy.com/): Proofreading and copyediting services.
+- [99designs](https://99designs.com/): Designer marketplace.
+
+
 ## 📒Organizational Apps
 - [Airtable](https://airtable.com/invite/r/mwQ4099x): A powerful no-code relational database. Has a ton of templates for everything from task management to forms to content calendars to Kanban boards. (_Note: Affiliate link_)
 - [Notion](https://www.notion.so/): All-in-one solution for most workflow-related things, like building Wikis, taking notes, tracking tasks and projects, and more.

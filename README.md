@@ -40,7 +40,6 @@ A small but formidable list of marketing tools for software developers.
 - [Teachable](https://teachable.com/): Selling online courses and coaching programs.
 
 ## 📬 Email Marketing Platforms
-
 - [ConvertKit](https://convertkit.com/)
 - [Mailerlite](https://www.mailerlite.com/)
 - [Buttondown](https://buttondown.email/)
@@ -81,6 +80,8 @@ A small but formidable list of marketing tools for software developers.
 - [Wordy.com](https://www.wordy.com/): Proofreading and copyediting services.
 - [99designs](https://99designs.com/): Designer marketplace.
 
+## 🗺Landing Page Builders
+- [Carrd.co](https://try.carrd.co/fjfhdld1): Create a fully responsive landing page with absolute ease. Supports Markdown. Free and paid plans available. (_Note: Affiliate link_)
 
 ## 📒Organizational Apps
 - [Airtable](https://airtable.com/invite/r/mwQ4099x): A powerful no-code relational database. Has a ton of templates for everything from task management to forms to content calendars to Kanban boards. (_Note: Affiliate link_)

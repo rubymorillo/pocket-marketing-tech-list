@@ -55,6 +55,7 @@ A small but formidable list of marketing tools for software developers.
 ### 💵Paid Tools
 - [MeetEdgar](https://meetedgar.com/pricing/): Free trial available.
 - [Zlappo](https://zlappo.com/): Free trial available.
+- [Hypefury](https://hypefury.com/): Free trial available.
 
 ## 🤖Automation Tools
 - [IFTTT](https://ifttt.com/)

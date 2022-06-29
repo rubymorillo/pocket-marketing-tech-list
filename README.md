@@ -91,6 +91,7 @@ A small but formidable list of marketing tools for software developers.
 - [Obsidian](https://obsidian.md/): App for everything from taking notes to building Wikis. Supports Markdown.
 - [Roam Research](https://roamresearch.com/): App for organizing and connecting different notes and other pieces of information.
 - [Draft](https://draftin.com/): A version control collaboration tool for writers. Supports Markdown.
+- [Taskade](https://taskade.com/): Collaborative task lists, mind maps, and outliners. Free for individuals and teams.
 
 ---
 List compiled by [Stephanie Morillo](https://www.stephaniemorillo.co/links). Like this list? [Consider becoming a sponsor.](https://github.com/sponsors/rubymorillo/)🌸

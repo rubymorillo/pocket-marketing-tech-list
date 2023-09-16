@@ -70,6 +70,7 @@ A small but formidable list of marketing tools for software developers.
 
 ## 🖼Graphic Design Tools & Free Stock Image Aggregators
 - [Canva](https://www.canva.com): Can be used to design flyers, presentations, book covers, and more. Free tier and paid tiers available.
+- [SlideEgg](https://slideegg.com/): Corporate industry Google Slides and Professional PowerPoint templates. 15K+ Free and 1M+ premium PPT templates available.
 - [SlidesGo](https://slidesgo.com/): Beautiful and customizable Google Sheets and PowerPoint templates. Free and premium tiers available.
 - [Compressor.io](https://compressor.io/): Compress images for faster page load speeds.
 - [Flickr](https://www.flickr.com/search/?text=&license=2%2C3%2C4%2C5%2C6%2C9): Search for images available under Creative Commons licenses.
